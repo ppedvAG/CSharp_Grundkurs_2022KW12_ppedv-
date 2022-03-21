@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\obj\Debug\net5.0\Modul02_LabLoesung.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\obj\Debug\net5.0\Modul02_LabLoesung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\obj\Debug\net5.0\Modul02_LabLoesung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\obj\Debug\net5.0\Modul02_LabLoesung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\obj\Debug\net5.0\Modul02_LabLoesung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\bin\Debug\net5.0\Modul02_LabLoesung.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\bin\Debug\net5.0\Modul02_LabLoesung.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\bin\Debug\net5.0\Modul02_LabLoesung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\bin\Debug\net5.0\Modul02_LabLoesung.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\bin\Debug\net5.0\Modul02_LabLoesung.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\bin\Debug\net5.0\ref\Modul02_LabLoesung.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\bin\Debug\net5.0\Modul02_LabLoesung.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\obj\Debug\net5.0\Modul02_LabLoesung.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\obj\Debug\net5.0\ref\Modul02_LabLoesung.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\obj\Debug\net5.0\Modul02_LabLoesung.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul02_LabLoesung\obj\Debug\net5.0\Modul02_LabLoesung.genruntimeconfig.cache

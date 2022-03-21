@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\bin\Debug\net5.0\Array_Conditions_Sample.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\bin\Debug\net5.0\Array_Conditions_Sample.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\bin\Debug\net5.0\Array_Conditions_Sample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\bin\Debug\net5.0\Array_Conditions_Sample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\bin\Debug\net5.0\Array_Conditions_Sample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\bin\Debug\net5.0\ref\Array_Conditions_Sample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\bin\Debug\net5.0\Array_Conditions_Sample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\obj\Debug\net5.0\Array_Conditions_Sample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\obj\Debug\net5.0\Array_Conditions_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\obj\Debug\net5.0\Array_Conditions_Sample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\obj\Debug\net5.0\Array_Conditions_Sample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\obj\Debug\net5.0\Array_Conditions_Sample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\obj\Debug\net5.0\Array_Conditions_Sample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\obj\Debug\net5.0\ref\Array_Conditions_Sample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\obj\Debug\net5.0\Array_Conditions_Sample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Array_Conditions_Sample\obj\Debug\net5.0\Array_Conditions_Sample.genruntimeconfig.cache
