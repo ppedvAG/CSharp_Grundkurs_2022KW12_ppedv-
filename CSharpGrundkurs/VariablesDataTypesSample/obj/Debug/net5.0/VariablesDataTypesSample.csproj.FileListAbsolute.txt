@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\bin\Debug\net5.0\VariablesDataTypesSample.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\bin\Debug\net5.0\VariablesDataTypesSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\bin\Debug\net5.0\VariablesDataTypesSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\bin\Debug\net5.0\VariablesDataTypesSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\bin\Debug\net5.0\VariablesDataTypesSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\bin\Debug\net5.0\ref\VariablesDataTypesSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\bin\Debug\net5.0\VariablesDataTypesSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\obj\Debug\net5.0\VariablesDataTypesSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\obj\Debug\net5.0\VariablesDataTypesSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\obj\Debug\net5.0\VariablesDataTypesSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\obj\Debug\net5.0\VariablesDataTypesSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\obj\Debug\net5.0\VariablesDataTypesSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\obj\Debug\net5.0\VariablesDataTypesSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\obj\Debug\net5.0\ref\VariablesDataTypesSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\obj\Debug\net5.0\VariablesDataTypesSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\VariablesDataTypesSample\obj\Debug\net5.0\VariablesDataTypesSample.genruntimeconfig.cache
