@@ -114,6 +114,13 @@ namespace VariablesDataTypesSample
 
             double kommazahl2 = zahl4; //Ganzzahl wird einer Kommazahl übergeben 
             Console.WriteLine(kommazahl2);
+
+
+            decimal money = 3_000.99m; //
+
+            int moneyAsInteger = (int)money;
+
+            Console.WriteLine(moneyAsInteger);
             #endregion
         }
     }
