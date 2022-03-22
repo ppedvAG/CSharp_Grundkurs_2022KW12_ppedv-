@@ -169,6 +169,10 @@ namespace Array_Conditions_Sample
             //Deklaration & Initialisierung des Arrays der Gewinnzahlen
             int[] gewinnzahlen = { 3, 16, 45, 79, 99 };
 
+            //int randomCountBetween0And100 = new Random().Next(1, 100);
+
+            //int traditioneller = (new Random().Next() % 100);
+
             //Abfrage des User-Tipps
             Console.Write("Bitte gib deinen Tipp ab (Ganzzahl zwischen 0 und 100): ");
             int tipp = int.Parse(Console.ReadLine());

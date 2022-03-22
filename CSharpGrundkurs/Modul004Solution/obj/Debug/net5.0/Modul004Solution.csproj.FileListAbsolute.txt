@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\bin\Debug\net5.0\Modul004Solution.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\bin\Debug\net5.0\Modul004Solution.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\bin\Debug\net5.0\Modul004Solution.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\bin\Debug\net5.0\Modul004Solution.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\bin\Debug\net5.0\Modul004Solution.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\bin\Debug\net5.0\ref\Modul004Solution.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\bin\Debug\net5.0\Modul004Solution.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\obj\Debug\net5.0\Modul004Solution.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\obj\Debug\net5.0\Modul004Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\obj\Debug\net5.0\Modul004Solution.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\obj\Debug\net5.0\Modul004Solution.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\obj\Debug\net5.0\Modul004Solution.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\obj\Debug\net5.0\Modul004Solution.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\obj\Debug\net5.0\ref\Modul004Solution.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\obj\Debug\net5.0\Modul004Solution.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul004Solution\obj\Debug\net5.0\Modul004Solution.genruntimeconfig.cache
