@@ -42,6 +42,7 @@ namespace Modul005_Solution
                 do
                     Console.Write("Auswahl: ");
                 while (!int.TryParse(Console.ReadLine(), out op));
+                
                 Rechenoperation operation = (Rechenoperation)op;
 
                 //Deklaration und Initialisierung der Ergebnisvariablen

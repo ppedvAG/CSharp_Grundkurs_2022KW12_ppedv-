@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7mqaib2GeAovdcFPQied2f1uE4QXVYz6RHVH1ZTX3ZdJnF21ZfMJH0x0ydR9Un5jLQvtel+ru0iibkEBDejWw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\NamespaceSample\\NamespaceSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
