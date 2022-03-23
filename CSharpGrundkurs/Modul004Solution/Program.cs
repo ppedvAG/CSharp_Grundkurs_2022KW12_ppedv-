@@ -22,6 +22,7 @@ namespace Modul004Solution
                 Console.Write("Gib eine weitere Zahl ein: ");
                 double zahl2 = double.Parse(Console.ReadLine());
 
+
                 //Anzeige der möglichen Rechenoperationen
                 Console.WriteLine("\nWähle eine Rechenoperation:");
                 for (int i = 1; i <= Enum.GetValues(typeof(Rechenoperation)).Length; i++)

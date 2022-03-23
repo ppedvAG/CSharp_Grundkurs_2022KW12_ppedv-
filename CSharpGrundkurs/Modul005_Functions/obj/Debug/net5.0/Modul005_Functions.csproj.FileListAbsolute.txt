@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\bin\Debug\net5.0\Modul005_Functions.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\bin\Debug\net5.0\Modul005_Functions.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\bin\Debug\net5.0\Modul005_Functions.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\bin\Debug\net5.0\Modul005_Functions.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\bin\Debug\net5.0\Modul005_Functions.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\bin\Debug\net5.0\ref\Modul005_Functions.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\bin\Debug\net5.0\Modul005_Functions.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\obj\Debug\net5.0\Modul005_Functions.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\obj\Debug\net5.0\Modul005_Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\obj\Debug\net5.0\Modul005_Functions.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\obj\Debug\net5.0\Modul005_Functions.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\obj\Debug\net5.0\Modul005_Functions.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\obj\Debug\net5.0\Modul005_Functions.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\obj\Debug\net5.0\ref\Modul005_Functions.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\obj\Debug\net5.0\Modul005_Functions.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul005_Functions\obj\Debug\net5.0\Modul005_Functions.genruntimeconfig.cache

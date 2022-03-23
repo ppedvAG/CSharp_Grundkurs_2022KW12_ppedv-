@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Conditions_Sample", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul04_Schleifen_Enum_Switch", "Modul04_Schleifen_Enum_Switch", "{EEAAC514-3B59-4487-BB96-EE2BD930682D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul004Demo", "Modul004Demo\Modul004Demo.csproj", "{81BECB96-5908-4D4A-ACC6-599E0C43B0FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul004Demo", "Modul004Demo\Modul004Demo.csproj", "{81BECB96-5908-4D4A-ACC6-599E0C43B0FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul004Solution", "Modul004Solution\Modul004Solution.csproj", "{43D5E810-8AC0-44D8-8F46-FCFBA3C3426A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul004Solution", "Modul004Solution\Modul004Solution.csproj", "{43D5E810-8AC0-44D8-8F46-FCFBA3C3426A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul05_Funktionen", "Modul05_Funktionen", "{8D24881C-2615-4FE2-A5BA-385F58321981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul005_Functions", "Modul005_Functions\Modul005_Functions.csproj", "{FA8F7852-0C74-48C4-B386-0C8F6420677C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +57,10 @@ Global
 		{43D5E810-8AC0-44D8-8F46-FCFBA3C3426A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43D5E810-8AC0-44D8-8F46-FCFBA3C3426A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43D5E810-8AC0-44D8-8F46-FCFBA3C3426A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8F7852-0C74-48C4-B386-0C8F6420677C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8F7852-0C74-48C4-B386-0C8F6420677C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8F7852-0C74-48C4-B386-0C8F6420677C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8F7852-0C74-48C4-B386-0C8F6420677C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +72,7 @@ Global
 		{596C4CC9-2A7D-42FF-943C-5179EF490C3D} = {150CCC14-2744-41B4-81E5-9F6AEA31907F}
 		{81BECB96-5908-4D4A-ACC6-599E0C43B0FE} = {EEAAC514-3B59-4487-BB96-EE2BD930682D}
 		{43D5E810-8AC0-44D8-8F46-FCFBA3C3426A} = {EEAAC514-3B59-4487-BB96-EE2BD930682D}
+		{FA8F7852-0C74-48C4-B386-0C8F6420677C} = {8D24881C-2615-4FE2-A5BA-385F58321981}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D1E68B8-FA94-4011-95D1-F8B3BD224DD6}
