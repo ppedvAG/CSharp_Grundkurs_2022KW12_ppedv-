@@ -43,6 +43,16 @@ namespace Modul005_Functions
             Console.WriteLine(differenz);
 
 
+            string eingabe = Console.ReadLine();
+            int convertedInteger = 0;
+            
+            //Wenn TryParse den Rückgbewert True zurückgibt, hat das Parsen erfolgreich funktioniert
+            if (int.TryParse(eingabe, out convertedInteger)) //Das Erbnis meines Parsens, wird in der Variablen convertedInteger hinterlegt
+            {
+                Console.WriteLine(convertedInteger);
+            }
+
+
 
             Console.ReadLine();
         }
