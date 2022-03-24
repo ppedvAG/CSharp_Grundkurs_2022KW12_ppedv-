@@ -35,7 +35,27 @@
       "ProjectGuid": "43d5e810-8ac0-44d8-8f46-fcfba3c3426a",
       "DisplayName": "Modul004Solution",
       "ColorIndex": 5
+    },
+    "fa8f7852-0c74-48c4-b386-0c8f6420677c": {
+      "ProjectGuid": "fa8f7852-0c74-48c4-b386-0c8f6420677c",
+      "DisplayName": "Modul005_Functions",
+      "ColorIndex": 6
+    },
+    "0c099aa4-79b9-438a-b881-6d30bb18cfc3": {
+      "ProjectGuid": "0c099aa4-79b9-438a-b881-6d30bb18cfc3",
+      "DisplayName": "Modul005_Solution",
+      "ColorIndex": 7
+    },
+    "d19cea62-397c-432e-9bef-054b710621ff": {
+      "ProjectGuid": "d19cea62-397c-432e-9bef-054b710621ff",
+      "DisplayName": "NamespaceSample",
+      "ColorIndex": 8
+    },
+    "c8ba2b0d-bee1-4ff9-a4e3-1d72f8add4a7": {
+      "ProjectGuid": "c8ba2b0d-bee1-4ff9-a4e3-1d72f8add4a7",
+      "DisplayName": "MyClassSample",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 10
 }

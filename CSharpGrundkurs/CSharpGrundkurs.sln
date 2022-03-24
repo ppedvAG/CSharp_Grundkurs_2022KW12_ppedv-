@@ -25,15 +25,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul004Solution", "Modul00
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul05_Funktionen", "Modul05_Funktionen", "{8D24881C-2615-4FE2-A5BA-385F58321981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul005_Functions", "Modul005_Functions\Modul005_Functions.csproj", "{FA8F7852-0C74-48C4-B386-0C8F6420677C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul005_Functions", "Modul005_Functions\Modul005_Functions.csproj", "{FA8F7852-0C74-48C4-B386-0C8F6420677C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul005_Solution", "Modul005_Solution\Modul005_Solution.csproj", "{0C099AA4-79B9-438A-B881-6D30BB18CFC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul005_Solution", "Modul005_Solution\Modul005_Solution.csproj", "{0C099AA4-79B9-438A-B881-6D30BB18CFC3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul06_NamespacesClassFieldProperties", "Modul06_NamespacesClassFieldProperties", "{F9C175D0-35B2-4754-9D0C-887A20DEA5B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamespaceSample", "NamespaceSample\NamespaceSample.csproj", "{D19CEA62-397C-432E-9BEF-054B710621FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NamespaceSample", "NamespaceSample\NamespaceSample.csproj", "{D19CEA62-397C-432E-9BEF-054B710621FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassSample", "MyClassSample\MyClassSample.csproj", "{C8BA2B0D-BEE1-4FF9-A4E3-1D72F8ADD4A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyClassSample", "MyClassSample\MyClassSample.csproj", "{C8BA2B0D-BEE1-4FF9-A4E3-1D72F8ADD4A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WiederholungTag2_ReferenceTypeVsValueTypes", "WiederholungTag2_ReferenceTypeVsValueTypes", "{15E7658E-6A65-425C-8761-EF5578E2A8AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefernceTypesVsValueTypes", "RefernceTypesVsValueTypes\RefernceTypesVsValueTypes.csproj", "{E07A7A12-7527-4FE6-A290-D144582AEB71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul07_ValueTypesAndReferenceTypes", "Modul07_ValueTypesAndReferenceTypes", "{D8A63E1B-AA22-422A-8CFE-D7CD40C4EA28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassVsStructSample", "ClassVsStructSample\ClassVsStructSample.csproj", "{2F783E1E-D3E5-4A37-93A4-3B7CD823C289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06_Fahrzeug", "Lab06_Fahrzeug\Lab06_Fahrzeug.csproj", "{9A24CA1A-4250-4BA1-BE48-75CFA4C94D4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +91,18 @@ Global
 		{C8BA2B0D-BEE1-4FF9-A4E3-1D72F8ADD4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8BA2B0D-BEE1-4FF9-A4E3-1D72F8ADD4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8BA2B0D-BEE1-4FF9-A4E3-1D72F8ADD4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07A7A12-7527-4FE6-A290-D144582AEB71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07A7A12-7527-4FE6-A290-D144582AEB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07A7A12-7527-4FE6-A290-D144582AEB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07A7A12-7527-4FE6-A290-D144582AEB71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F783E1E-D3E5-4A37-93A4-3B7CD823C289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F783E1E-D3E5-4A37-93A4-3B7CD823C289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F783E1E-D3E5-4A37-93A4-3B7CD823C289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F783E1E-D3E5-4A37-93A4-3B7CD823C289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A24CA1A-4250-4BA1-BE48-75CFA4C94D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A24CA1A-4250-4BA1-BE48-75CFA4C94D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A24CA1A-4250-4BA1-BE48-75CFA4C94D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A24CA1A-4250-4BA1-BE48-75CFA4C94D4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,6 +118,9 @@ Global
 		{0C099AA4-79B9-438A-B881-6D30BB18CFC3} = {8D24881C-2615-4FE2-A5BA-385F58321981}
 		{D19CEA62-397C-432E-9BEF-054B710621FF} = {F9C175D0-35B2-4754-9D0C-887A20DEA5B7}
 		{C8BA2B0D-BEE1-4FF9-A4E3-1D72F8ADD4A7} = {F9C175D0-35B2-4754-9D0C-887A20DEA5B7}
+		{E07A7A12-7527-4FE6-A290-D144582AEB71} = {15E7658E-6A65-425C-8761-EF5578E2A8AE}
+		{2F783E1E-D3E5-4A37-93A4-3B7CD823C289} = {D8A63E1B-AA22-422A-8CFE-D7CD40C4EA28}
+		{9A24CA1A-4250-4BA1-BE48-75CFA4C94D4A} = {F9C175D0-35B2-4754-9D0C-887A20DEA5B7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D1E68B8-FA94-4011-95D1-F8B3BD224DD6}

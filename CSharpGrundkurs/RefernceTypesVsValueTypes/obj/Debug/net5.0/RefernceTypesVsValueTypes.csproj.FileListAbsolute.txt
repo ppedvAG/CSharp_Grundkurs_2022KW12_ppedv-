@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\bin\Debug\net5.0\RefernceTypesVsValueTypes.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\bin\Debug\net5.0\RefernceTypesVsValueTypes.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\bin\Debug\net5.0\RefernceTypesVsValueTypes.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\bin\Debug\net5.0\RefernceTypesVsValueTypes.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\bin\Debug\net5.0\RefernceTypesVsValueTypes.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\bin\Debug\net5.0\ref\RefernceTypesVsValueTypes.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\bin\Debug\net5.0\RefernceTypesVsValueTypes.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\obj\Debug\net5.0\RefernceTypesVsValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\obj\Debug\net5.0\RefernceTypesVsValueTypes.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\obj\Debug\net5.0\RefernceTypesVsValueTypes.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\obj\Debug\net5.0\RefernceTypesVsValueTypes.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\obj\Debug\net5.0\RefernceTypesVsValueTypes.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\obj\Debug\net5.0\ref\RefernceTypesVsValueTypes.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\obj\Debug\net5.0\RefernceTypesVsValueTypes.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\RefernceTypesVsValueTypes\obj\Debug\net5.0\RefernceTypesVsValueTypes.genruntimeconfig.cache

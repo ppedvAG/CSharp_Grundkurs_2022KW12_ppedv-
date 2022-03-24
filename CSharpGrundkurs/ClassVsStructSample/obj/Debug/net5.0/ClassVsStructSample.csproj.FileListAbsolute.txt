@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\bin\Debug\net5.0\ClassVsStructSample.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\bin\Debug\net5.0\ClassVsStructSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\bin\Debug\net5.0\ClassVsStructSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\bin\Debug\net5.0\ClassVsStructSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\bin\Debug\net5.0\ClassVsStructSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\bin\Debug\net5.0\ref\ClassVsStructSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\bin\Debug\net5.0\ClassVsStructSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\obj\Debug\net5.0\ClassVsStructSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\obj\Debug\net5.0\ClassVsStructSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\obj\Debug\net5.0\ClassVsStructSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\obj\Debug\net5.0\ClassVsStructSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\obj\Debug\net5.0\ClassVsStructSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\obj\Debug\net5.0\ref\ClassVsStructSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\obj\Debug\net5.0\ClassVsStructSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ClassVsStructSample\obj\Debug\net5.0\ClassVsStructSample.genruntimeconfig.cache
