@@ -55,7 +55,17 @@
       "ProjectGuid": "c8ba2b0d-bee1-4ff9-a4e3-1d72f8add4a7",
       "DisplayName": "MyClassSample",
       "ColorIndex": 9
+    },
+    "925b5f7c-f9fc-48bc-b217-b34ded41ae1a": {
+      "ProjectGuid": "925b5f7c-f9fc-48bc-b217-b34ded41ae1a",
+      "DisplayName": "OOP",
+      "ColorIndex": 10
+    },
+    "9a24ca1a-4250-4ba1-be48-75cfa4c94d4a": {
+      "ProjectGuid": "9a24ca1a-4250-4ba1-be48-75cfa4c94d4a",
+      "DisplayName": "Lab06_Fahrzeug",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }

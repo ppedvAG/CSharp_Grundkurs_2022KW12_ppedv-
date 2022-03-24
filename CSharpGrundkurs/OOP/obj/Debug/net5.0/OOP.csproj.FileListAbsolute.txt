@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\bin\Debug\net5.0\OOP.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\bin\Debug\net5.0\OOP.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\bin\Debug\net5.0\OOP.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\bin\Debug\net5.0\OOP.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\bin\Debug\net5.0\OOP.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\bin\Debug\net5.0\ref\OOP.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\bin\Debug\net5.0\OOP.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\obj\Debug\net5.0\OOP.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\obj\Debug\net5.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\obj\Debug\net5.0\OOP.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\obj\Debug\net5.0\OOP.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\obj\Debug\net5.0\OOP.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\obj\Debug\net5.0\OOP.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\obj\Debug\net5.0\ref\OOP.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\obj\Debug\net5.0\OOP.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\OOP\obj\Debug\net5.0\OOP.genruntimeconfig.cache
