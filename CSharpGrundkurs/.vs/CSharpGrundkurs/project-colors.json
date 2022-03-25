@@ -65,7 +65,12 @@
       "ProjectGuid": "9a24ca1a-4250-4ba1-be48-75cfa4c94d4a",
       "DisplayName": "Lab06_Fahrzeug",
       "ColorIndex": 11
+    },
+    "5d8303f1-2d7e-460a-975b-7277bccd15a1": {
+      "ProjectGuid": "5d8303f1-2d7e-460a-975b-7277bccd15a1",
+      "DisplayName": "DestroyObjectsSample",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 13
 }

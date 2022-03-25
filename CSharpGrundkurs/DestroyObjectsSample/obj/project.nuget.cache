@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a210/T7qiTp/bbD1TQXOZ8v4Nj9hR7OklvdLUGao7YP82Z8/2+2+oXMKgsEV16HmAA96NH2pfZeaDpu/XQ+e6w==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\DestroyObjectsSample\\DestroyObjectsSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -26,7 +26,7 @@ namespace OOP
 
 
 
-            lebewesen1 = null;
+            
             #region Modul 06: OOP
             //Deklarierung von Person-Variablen und Instanziierung von neuen Personenobjekten per Konstruktor
             Lebewesen neuesLebewesen = new Lebewesen("Bello", "Fleisch", new DateTime(2007, 4, 23));
@@ -52,13 +52,13 @@ namespace OOP
 
             Console.WriteLine(Lebewesen.ZeigeAnzahlLebewesen());
 
-            //int i = 0;
-            //i++;
+            GC.SuppressFinalize(lebewesen);
 
+            lebewesen = lebewesen1 = neuesLebewesen = neuesLebewesen2 = null;
             //Aufruf der GC und Programmpause, bis alle Destruktoren beendet wurden
-            GC.Collect();
-            GC.WaitForPendingFinalizers();
-
+            //GC.Collect();
+            //GC.WaitForPendingFinalizers();
+            
 
 
             Console.WriteLine(Lebewesen.ZeigeAnzahlLebewesen()); // 6
@@ -71,10 +71,10 @@ namespace OOP
             //} //Lebewesen5 wird hier expliziet abgebaut....bei Fehler oder Erfolg -> Methode Dispose 
 
 
-            using (MyClassWithAbort myClass = new MyClassWithAbort())
-            {
+            //using (MyClassWithAbort myClass = new MyClassWithAbort())
+            //{
 
-            } //Dispose und danach wird dekonsutrkor auf
+            //} 
 
 
             using MyClassWithAbort myClass = new MyClassWithAbort();
@@ -98,13 +98,8 @@ namespace OOP
             }
             #endregion
 
-
-            int i; //Variable (ein Wert) 
-
-
-
             Console.ReadLine();
-        } //GC -> würde 
+        } //GC -> wird automatisch hier aufgerufen 
     }
 
     public class Lebewesen
@@ -132,6 +127,9 @@ namespace OOP
         //Property, welche einen komplexen Datentypen abbildet -> Auto-Property
         public DateTime Geburtsdatum { get; set; }
 
+        //Auto-Proptery -> mal angenommen wir benötigen für die neue Version 2 eine weitere Property
+        public int Gewicht { get; set; }
+
 
         //Read-only Property mit Rückbezug auf andere Property
         public int AlterInJahren
@@ -157,7 +155,12 @@ namespace OOP
             this.Name = name;
             this.Lieblingsnahrung = lieblingsnahrung;
             this.Geburtsdatum = geburtsdatum;
+        }
 
+        public Lebewesen(string name, string lieblingsnahrung, DateTime geburtsdatum, int gewicht)
+            : this (name, lieblingsnahrung, geburtsdatum)
+        {
+            this.Gewicht = gewicht;
         }
 
         
@@ -183,6 +186,13 @@ namespace OOP
             //kürzer Schreibweise
             return new Lebewesen(kindername, this.Name, DateTime.Now);
         }
+
+        public void Schlafen()
+        {
+            Console.WriteLine($"{this.Name} schläft");
+        }
+
+
         #endregion
 
         #region Statische Member
@@ -193,6 +203,8 @@ namespace OOP
             return $"Es gibt {AnzahlLebewesen} Lebwesen";
         }
         #endregion
+
+        
     }
 
 

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\bin\Debug\net5.0\PolymorphySample.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\bin\Debug\net5.0\PolymorphySample.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\bin\Debug\net5.0\PolymorphySample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\bin\Debug\net5.0\PolymorphySample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\bin\Debug\net5.0\PolymorphySample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\bin\Debug\net5.0\ref\PolymorphySample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\bin\Debug\net5.0\PolymorphySample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\obj\Debug\net5.0\PolymorphySample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\obj\Debug\net5.0\PolymorphySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\obj\Debug\net5.0\PolymorphySample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\obj\Debug\net5.0\PolymorphySample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\obj\Debug\net5.0\PolymorphySample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\obj\Debug\net5.0\PolymorphySample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\obj\Debug\net5.0\ref\PolymorphySample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\obj\Debug\net5.0\PolymorphySample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\PolymorphySample\obj\Debug\net5.0\PolymorphySample.genruntimeconfig.cache

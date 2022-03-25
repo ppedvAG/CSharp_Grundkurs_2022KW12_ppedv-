@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\obj\Debug\net5.0\Lab07_Fahrzeuge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\obj\Debug\net5.0\Lab07_Fahrzeuge.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\obj\Debug\net5.0\Lab07_Fahrzeuge.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\obj\Debug\net5.0\Lab07_Fahrzeuge.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\bin\Debug\net5.0\Lab07_Fahrzeuge.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\bin\Debug\net5.0\Lab07_Fahrzeuge.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\bin\Debug\net5.0\Lab07_Fahrzeuge.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\bin\Debug\net5.0\Lab07_Fahrzeuge.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\bin\Debug\net5.0\Lab07_Fahrzeuge.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\bin\Debug\net5.0\ref\Lab07_Fahrzeuge.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\bin\Debug\net5.0\Lab07_Fahrzeuge.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\obj\Debug\net5.0\Lab07_Fahrzeuge.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\obj\Debug\net5.0\ref\Lab07_Fahrzeuge.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\obj\Debug\net5.0\Lab07_Fahrzeuge.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Lab07_Fahrzeuge\obj\Debug\net5.0\Lab07_Fahrzeuge.genruntimeconfig.cache

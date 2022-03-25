@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\bin\Debug\net5.0\DestroyObjectsSample.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\bin\Debug\net5.0\DestroyObjectsSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\bin\Debug\net5.0\DestroyObjectsSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\bin\Debug\net5.0\DestroyObjectsSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\bin\Debug\net5.0\DestroyObjectsSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\bin\Debug\net5.0\ref\DestroyObjectsSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\bin\Debug\net5.0\DestroyObjectsSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\obj\Debug\net5.0\DestroyObjectsSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\obj\Debug\net5.0\DestroyObjectsSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\obj\Debug\net5.0\DestroyObjectsSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\obj\Debug\net5.0\DestroyObjectsSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\obj\Debug\net5.0\DestroyObjectsSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\obj\Debug\net5.0\DestroyObjectsSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\obj\Debug\net5.0\ref\DestroyObjectsSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\obj\Debug\net5.0\DestroyObjectsSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DestroyObjectsSample\obj\Debug\net5.0\DestroyObjectsSample.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\bin\Debug\net5.0\Modul08_Lebewesen.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\bin\Debug\net5.0\Modul08_Lebewesen.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\bin\Debug\net5.0\Modul08_Lebewesen.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\bin\Debug\net5.0\Modul08_Lebewesen.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\bin\Debug\net5.0\Modul08_Lebewesen.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\bin\Debug\net5.0\ref\Modul08_Lebewesen.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\bin\Debug\net5.0\Modul08_Lebewesen.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\obj\Debug\net5.0\Modul08_Lebewesen.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\obj\Debug\net5.0\Modul08_Lebewesen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\obj\Debug\net5.0\Modul08_Lebewesen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\obj\Debug\net5.0\Modul08_Lebewesen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\obj\Debug\net5.0\Modul08_Lebewesen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\obj\Debug\net5.0\Modul08_Lebewesen.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\obj\Debug\net5.0\ref\Modul08_Lebewesen.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\obj\Debug\net5.0\Modul08_Lebewesen.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08_Lebewesen\obj\Debug\net5.0\Modul08_Lebewesen.genruntimeconfig.cache

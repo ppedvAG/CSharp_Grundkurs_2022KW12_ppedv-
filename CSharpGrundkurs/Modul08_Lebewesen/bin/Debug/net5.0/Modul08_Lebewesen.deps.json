@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Modul08_Lebewesen/1.0.0": {
+        "runtime": {
+          "Modul08_Lebewesen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul08_Lebewesen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

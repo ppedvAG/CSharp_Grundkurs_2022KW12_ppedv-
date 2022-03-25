@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\bin\Debug\net5.0\GeoVirtualSample.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\bin\Debug\net5.0\GeoVirtualSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\bin\Debug\net5.0\GeoVirtualSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\bin\Debug\net5.0\GeoVirtualSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\bin\Debug\net5.0\GeoVirtualSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\bin\Debug\net5.0\ref\GeoVirtualSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\bin\Debug\net5.0\GeoVirtualSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\obj\Debug\net5.0\GeoVirtualSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\obj\Debug\net5.0\GeoVirtualSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\obj\Debug\net5.0\GeoVirtualSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\obj\Debug\net5.0\GeoVirtualSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\obj\Debug\net5.0\GeoVirtualSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\obj\Debug\net5.0\GeoVirtualSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\obj\Debug\net5.0\ref\GeoVirtualSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\obj\Debug\net5.0\GeoVirtualSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\GeoVirtualSample\obj\Debug\net5.0\GeoVirtualSample.genruntimeconfig.cache
