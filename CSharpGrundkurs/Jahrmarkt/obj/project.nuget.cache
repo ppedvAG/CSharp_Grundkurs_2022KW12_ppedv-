@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ANgSdmc3o5kbPtA9Hos+el2xK74L9ue95k4QRcZVY1V9fGK90lgZeQMwX/dt/+SdAAG+zOQaWh0s4icnS439eA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\Jahrmarkt\\Jahrmarkt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
