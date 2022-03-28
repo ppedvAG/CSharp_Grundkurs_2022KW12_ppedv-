@@ -24,6 +24,8 @@ namespace OOP
             lebewesen1.Name = "";
 
 
+            //Lebewesen referenceCopy = lebewesen;
+            //Lebewesen referenceCopy1 = lebewesen.GetInstanceOfMe();
 
 
             
@@ -122,7 +124,7 @@ namespace OOP
 
         //Wird in einer Eigenschaft keine Spezifizierung angegeben, generiert das Programm das entsprechende Feld unsichtbar im Hintergrund
         //Snippet: prop + tab + tab (2x) 
-        public string Lieblingsnahrung { get; set; }
+        public string Lieblingsnahrung { get; set; } = "Lasagne";
         
         //Property, welche einen komplexen Datentypen abbildet -> Auto-Property
         public DateTime Geburtsdatum { get; set; }
@@ -163,7 +165,17 @@ namespace OOP
             this.Gewicht = gewicht;
         }
 
-        
+        public Lebewesen GetCopy()
+        {
+            return new Lebewesen(this.Name, this.Lieblingsnahrung, this.Geburtsdatum);
+        }
+
+        public Lebewesen GetInstanceOfMe()
+        {
+            return this;
+        } //abc wird hier freigegeben
+
+
 
         #endregion
 
@@ -198,21 +210,81 @@ namespace OOP
         #region Statische Member
         public static int AnzahlLebewesen { get; set; } = 0; //setter bekommt den Wert 0 (Default-Wert) 
 
+        //static Variablen ordnen sich dem Typ zu
         public static string ZeigeAnzahlLebewesen()
         {
             return $"Es gibt {AnzahlLebewesen} Lebwesen";
         }
         #endregion
+    }
 
-        
+    /*
+     *  IDisposeable kümmert sich um das freigeben von unmanaged - objects. (FileStream, SqlConnection...
+     * 
+     */
+    public class MyClassWithAbort : IDisposable //Interface
+    {
+        public void DoWork()
+        {
+            //mache etwas 
+        }
+        public void Close()
+        {
+
+        }
+
+        public void Dispose() //wird von aussen automatisch aufgerufen //Achtung Beispiel 
+        {
+            Close();
+        }
+    }
+
+    public class MyWrongFileStreamClass
+    {
+        public void DoWork()
+        {
+            //mach etwas
+        }
     }
 
 
-    public class MyClassWithAbort : IDisposable
+    public class HowToUseUnmangedRessource
     {
-        public void Dispose()
+        public void TryCatchFinallyBlockSample()
         {
-            
+
+            MyClassWithAbort myClassWithAbort = new MyClassWithAbort();
+
+            //try block umfasst einen kritischen Code, indem Fehler passieren können
+            try
+            {
+                //mach irgendwas mit der Instanz -> myClassWithAbort
+
+                myClassWithAbort.DoWork();
+            }
+            catch
+            {
+                //Catch-Block kümmert sich um die Fehlermeldungen
+            }
+            finally
+            {
+                //finally wird immer wieder aufgerufen und garantiert im Erfolg- oder Fehlerfall eine Möglichkeit die Objekte expliziet nachzubearbeiten 
+                myClassWithAbort.Close();
+            }
+        }
+
+        public void UsingStatementSample()
+        {
+            //using Statement kann nur mit Klassen arbeiten, die ein IDispose Interface -> Hier wird ein Fehler angegezeigt
+            //using (MyWrongFileStreamClass myWrongFileStreamClass = new MyWrongFileStreamClass())
+            //{
+
+            //}
+
+            using (MyClassWithAbort myClassWithAbort = new MyClassWithAbort())
+            {
+
+            } //myClassWithAbort.Dispose aufgerufen();
         }
     }
 }

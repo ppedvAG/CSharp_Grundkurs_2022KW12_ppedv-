@@ -7,6 +7,8 @@ namespace PolymorphySample
     {
         static void Main(string[] args)
         {
+            
+
             List<string> namensListe = new List<string>();
             namensListe.Add("Harry");
             namensListe.Add("Otto");
@@ -14,6 +16,7 @@ namespace PolymorphySample
             List<PDFDocument> pdfDocList = new List<PDFDocument>();
             pdfDocList.Add(new PDFDocument());
             pdfDocList.Add(new PDFDocument());
+            //pdfDocList.Add(new ExcelDocument()); bringt einen Fehler 
 
 
             List<DocumentBase> documentList = new List<DocumentBase>();
@@ -21,17 +24,22 @@ namespace PolymorphySample
             documentList.Add(new PDFDocument());
             documentList.Add(new ExcelDocument());
             documentList.Add(new WordDocument());
+            documentList.Add(new Excel97Doc());
 
+            //DocumentBase myBaseClas = new();
 
             foreach(DocumentBase current in documentList)
             {
+                //Print Methode wird in der abstrakten Klasse definiert und kann auf alle abgeleiteten Klassen angewendet werden
                 current.Print(); //Alle Dokumente können gedruckt werden 
 
-
+                
                 //sample 2 -> wir können immer noch wissen, welcher Typ verwendet wird (WordDocument / PDFDcoument /ExcelDocument) 
                 if (current.GetType() == typeof(PDFDocument))
                 {
                     Console.WriteLine("PDF Dokument kann... ");
+
+                    ((PDFDocument)current).ShowPDFInfo();
                 }
 
                 //Sample 3 is operator prüft auch nach dem Typ (kürzer Schreibweise) 
@@ -50,6 +58,7 @@ namespace PolymorphySample
             myWordDoc2.Name = "Steve Smith";
             myWordDoc2.Print();
 
+
             if (myWordDoc2 is WordDocument wordDocument)
             {
                 wordDocument.ConvertWordToOpenXML();
@@ -64,9 +73,11 @@ namespace PolymorphySample
             wordDocument1.Name = "von Steve Smith";
             wordDocument1.Verzeichnisstruktur = "C:\\Windows\\Temp";
             wordDocument1.Copyright = "ppedv AG";
+            wordDocument1.MakeWatermark();
 
 
             DocumentBase myBaseType = wordDocument1;
+            myBaseType.Print(); 
 
             if (myBaseType is WordDocument myWordDoc)
             {
@@ -75,12 +86,14 @@ namespace PolymorphySample
                 Console.WriteLine(myWordDoc.Verzeichnisstruktur);
                 Console.WriteLine(myWordDoc.Copyright );
 
+                myWordDoc.MakeWatermark();
+
             }
             #endregion
         }
 
 
-        public static void MakeBackup (DocumentBase docbase)
+        public static void MakeBackup (object docbase)
         {
             switch (docbase)
             {
@@ -108,7 +121,7 @@ namespace PolymorphySample
         public string Name { get; set; }
         public string Title { get; set; }
 
-        public abstract void Print();
+        public abstract void Print(); 
     }
 
     public class PDFDocument : DocumentBase
@@ -118,6 +131,11 @@ namespace PolymorphySample
         public override void Print()
         {
             Console.WriteLine("PDF wird gedruckt");
+        }
+
+        public void ShowPDFInfo()
+        {
+            //zeige eine Info an
         }
     }
 
@@ -147,7 +165,13 @@ namespace PolymorphySample
         {
             Console.WriteLine("Drucke ein Excel-Dokument aus");
         }
+    }
 
-        
+    public class Excel97Doc : ExcelDocument
+    {
+        public new void Print()
+        {
+
+        }
     }
 }

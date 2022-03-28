@@ -18,8 +18,6 @@ namespace GeoAbstractSample
     //Abstrakte klassen haben die Aufgabe, wie die verebten Klassen aufgebaut (geschnitten sind) 
     public abstract class Shape
     {
-        
-
         //Properties MÜSSEN in der abgeleiteten Klasse überschrieben werden
         public abstract double X { get; set; }
         public abstract double Y { get; set; }

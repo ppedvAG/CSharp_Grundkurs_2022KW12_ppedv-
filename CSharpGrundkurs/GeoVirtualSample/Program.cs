@@ -80,7 +80,6 @@ namespace GeoVirtualSample
             Y = y;
         }
 
-
         public double X { get; set; }
         public double Y { get; set; }
 
@@ -132,7 +131,7 @@ namespace GeoVirtualSample
     #endregion
 
 
-    public class Haribo
+    public class Haribo // ALLE Klassen erben von object
     {
          
         public override bool Equals(object obj)

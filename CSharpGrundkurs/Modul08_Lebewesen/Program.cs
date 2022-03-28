@@ -118,7 +118,7 @@ namespace Modul08_Lebewesen
         }
 
         //New unterbricht das anbieten eines Overrides -> bei abgeleiteten Klassen 
-        public new void Nahrungsaufnahme()
+        public new void Nahrungsaufnahme() 
         {
             Console.WriteLine("Der Hund frisst");
         }

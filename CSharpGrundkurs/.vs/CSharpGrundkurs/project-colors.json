@@ -70,7 +70,32 @@
       "ProjectGuid": "5d8303f1-2d7e-460a-975b-7277bccd15a1",
       "DisplayName": "DestroyObjectsSample",
       "ColorIndex": 12
+    },
+    "2a83a279-b027-40ed-bf91-1b2ea7de50ca": {
+      "ProjectGuid": "2a83a279-b027-40ed-bf91-1b2ea7de50ca",
+      "DisplayName": "GeoVirtualSample",
+      "ColorIndex": 13
+    },
+    "11c05ba6-ff65-40ab-9c34-3aef27942968": {
+      "ProjectGuid": "11c05ba6-ff65-40ab-9c34-3aef27942968",
+      "DisplayName": "Modul08_Lebewesen",
+      "ColorIndex": 14
+    },
+    "172ab7c8-517b-4bdd-ba42-85a21882b6f5": {
+      "ProjectGuid": "172ab7c8-517b-4bdd-ba42-85a21882b6f5",
+      "DisplayName": "Lab07_Fahrzeuge",
+      "ColorIndex": 15
+    },
+    "064a0c1e-66c2-439b-9c45-82cd4e0c35c2": {
+      "ProjectGuid": "064a0c1e-66c2-439b-9c45-82cd4e0c35c2",
+      "DisplayName": "GeoAbstractSample",
+      "ColorIndex": 0
+    },
+    "1c911fe2-069b-4451-8c73-2a56a2c5a189": {
+      "ProjectGuid": "1c911fe2-069b-4451-8c73-2a56a2c5a189",
+      "DisplayName": "PolymorphySample",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 2
 }
