@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "03tBrrjXcZcwXvqzMhQYCLeTAledYKykUpjO9pozMfFrDLvlX76xwfloX3+RUN4f0jYdtzlZDkIOYZZ9YN3mgg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\Modul08B_LabLoesungVererbung\\Modul08B_LabLoesungVererbung.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

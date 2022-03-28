@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\bin\Debug\net5.0\Modul08A_LabLoesungVererbung.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\bin\Debug\net5.0\Modul08A_LabLoesungVererbung.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\bin\Debug\net5.0\Modul08A_LabLoesungVererbung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\bin\Debug\net5.0\Modul08A_LabLoesungVererbung.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\bin\Debug\net5.0\Modul08A_LabLoesungVererbung.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\bin\Debug\net5.0\ref\Modul08A_LabLoesungVererbung.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\bin\Debug\net5.0\Modul08A_LabLoesungVererbung.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\obj\Debug\net5.0\Modul08A_LabLoesungVererbung.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\obj\Debug\net5.0\Modul08A_LabLoesungVererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\obj\Debug\net5.0\Modul08A_LabLoesungVererbung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\obj\Debug\net5.0\Modul08A_LabLoesungVererbung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\obj\Debug\net5.0\Modul08A_LabLoesungVererbung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\obj\Debug\net5.0\Modul08A_LabLoesungVererbung.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\obj\Debug\net5.0\ref\Modul08A_LabLoesungVererbung.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\obj\Debug\net5.0\Modul08A_LabLoesungVererbung.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\Modul08A_LabLoesungVererbung\obj\Debug\net5.0\Modul08A_LabLoesungVererbung.genruntimeconfig.cache
