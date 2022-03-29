@@ -65,17 +65,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul09_Polymorphy", "Modul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphySample", "PolymorphySample\PolymorphySample.csproj", "{1C911FE2-069B-4451-8C73-2A56A2C5A189}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul08A_LabLoesungVererbung", "Modul08A_LabLoesungVererbung\Modul08A_LabLoesungVererbung.csproj", "{FC9AAA93-A102-4D7D-9F23-5EB2D613359B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul08A_LabLoesungVererbung", "Modul08A_LabLoesungVererbung\Modul08A_LabLoesungVererbung.csproj", "{FC9AAA93-A102-4D7D-9F23-5EB2D613359B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul08B_LabLoesungVererbung", "Modul08B_LabLoesungVererbung\Modul08B_LabLoesungVererbung.csproj", "{D35DC6F1-6C7D-43FD-B9D0-2610F728AC79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul08B_LabLoesungVererbung", "Modul08B_LabLoesungVererbung\Modul08B_LabLoesungVererbung.csproj", "{D35DC6F1-6C7D-43FD-B9D0-2610F728AC79}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul10_Interfaces", "Modul10_Interfaces", "{E987E090-C09B-4326-8C4A-21700AEE3517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahrzeugLib", "FahrzeugLib\FahrzeugLib.csproj", "{3BF5066C-113B-42E0-8095-69686A73C62C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FahrzeugLib", "FahrzeugLib\FahrzeugLib.csproj", "{3BF5066C-113B-42E0-8095-69686A73C62C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahrzeugConsole", "FahrzeugConsole\FahrzeugConsole.csproj", "{7AB799EE-08BC-4FDA-89D0-0020B47769B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FahrzeugConsole", "FahrzeugConsole\FahrzeugConsole.csproj", "{7AB799EE-08BC-4FDA-89D0-0020B47769B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jahrmarkt", "Jahrmarkt\Jahrmarkt.csproj", "{F102EA61-6A06-4BB0-AC34-207C2B8CDF92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jahrmarkt", "Jahrmarkt\Jahrmarkt.csproj", "{F102EA61-6A06-4BB0-AC34-207C2B8CDF92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul011_Collections", "Modul011_Collections", "{AC5BAA08-A74E-442C-A961-616818914951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionDemo", "CollectionDemo\CollectionDemo.csproj", "{821CDCDA-5D89-4311-BB49-B7AC6269C796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +187,10 @@ Global
 		{F102EA61-6A06-4BB0-AC34-207C2B8CDF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F102EA61-6A06-4BB0-AC34-207C2B8CDF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F102EA61-6A06-4BB0-AC34-207C2B8CDF92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821CDCDA-5D89-4311-BB49-B7AC6269C796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821CDCDA-5D89-4311-BB49-B7AC6269C796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821CDCDA-5D89-4311-BB49-B7AC6269C796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821CDCDA-5D89-4311-BB49-B7AC6269C796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -213,6 +221,7 @@ Global
 		{3BF5066C-113B-42E0-8095-69686A73C62C} = {EF1A5426-4BAE-46A1-A25E-0E371D39B89E}
 		{7AB799EE-08BC-4FDA-89D0-0020B47769B5} = {EF1A5426-4BAE-46A1-A25E-0E371D39B89E}
 		{F102EA61-6A06-4BB0-AC34-207C2B8CDF92} = {E987E090-C09B-4326-8C4A-21700AEE3517}
+		{821CDCDA-5D89-4311-BB49-B7AC6269C796} = {AC5BAA08-A74E-442C-A961-616818914951}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D1E68B8-FA94-4011-95D1-F8B3BD224DD6}

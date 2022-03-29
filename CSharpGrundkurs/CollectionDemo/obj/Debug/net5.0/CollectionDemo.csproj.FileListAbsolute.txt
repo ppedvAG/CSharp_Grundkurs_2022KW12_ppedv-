@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\bin\Debug\net5.0\CollectionDemo.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\bin\Debug\net5.0\CollectionDemo.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\bin\Debug\net5.0\CollectionDemo.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\bin\Debug\net5.0\CollectionDemo.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\bin\Debug\net5.0\CollectionDemo.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\bin\Debug\net5.0\CollectionDemo.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\CollectionDemo.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\CollectionDemo.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\CollectionDemo.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\CollectionDemo.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\refint\CollectionDemo.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\CollectionDemo.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\CollectionDemo.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\CollectionDemo\obj\Debug\net5.0\ref\CollectionDemo.dll

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pg+3lJ4xc4NbqWWJ6TJt0DyEbFjMFAbp0nvlqrSqsjCJS2OWOEMQeOXUTaEORpmB5tIM6dr4uLl0PfmePGGokQ==",
+  "dgSpecHash": "BL6m6JeGpAfdmf4sPH7mpFOzG/sjcwlzOLnCNVhdAASBJVuU6ExEsnGgdJo/Af9jDmdNet+dgc7tSUqhdTvJPQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\PolymorphySample\\PolymorphySample.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
   "logs": []
 }

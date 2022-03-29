@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xnEbO2+tlI+Oneidd0AZhd+PO5TEwImlQ8vIxIvDt65s00mm8RkT4MaybyZ2fAZ5SwR4sxF7VMTOnc/Wb0j4bQ==",
+  "dgSpecHash": "Miv5qQy/C2+Deq9DuFrDqRR2f6oUV3PkB7V6j4RXWi+/E8xqLDnMX5gJzIUI6i9fNpF7OmDbsEZFPQRmIM2rTQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\GeoAbstractSample\\GeoAbstractSample.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "C:\\Users\\kw4\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
   ],
   "logs": []
 }

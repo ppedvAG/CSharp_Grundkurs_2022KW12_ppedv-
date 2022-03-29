@@ -95,7 +95,32 @@
       "ProjectGuid": "1c911fe2-069b-4451-8c73-2a56a2c5a189",
       "DisplayName": "PolymorphySample",
       "ColorIndex": 1
+    },
+    "fc9aaa93-a102-4d7d-9f23-5eb2d613359b": {
+      "ProjectGuid": "fc9aaa93-a102-4d7d-9f23-5eb2d613359b",
+      "DisplayName": "Modul08A_LabLoesungVererbung",
+      "ColorIndex": 2
+    },
+    "d35dc6f1-6c7d-43fd-b9d0-2610f728ac79": {
+      "ProjectGuid": "d35dc6f1-6c7d-43fd-b9d0-2610f728ac79",
+      "DisplayName": "Modul08B_LabLoesungVererbung",
+      "ColorIndex": 3
+    },
+    "3bf5066c-113b-42e0-8095-69686a73c62c": {
+      "ProjectGuid": "3bf5066c-113b-42e0-8095-69686a73c62c",
+      "DisplayName": "FahrzeugLib",
+      "ColorIndex": 4
+    },
+    "7ab799ee-08bc-4fda-89d0-0020b47769b5": {
+      "ProjectGuid": "7ab799ee-08bc-4fda-89d0-0020b47769b5",
+      "DisplayName": "FahrzeugConsole",
+      "ColorIndex": 5
+    },
+    "f102ea61-6a06-4bb0-ac34-207c2b8cdf92": {
+      "ProjectGuid": "f102ea61-6a06-4bb0-ac34-207c2b8cdf92",
+      "DisplayName": "Jahrmarkt",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 7
 }

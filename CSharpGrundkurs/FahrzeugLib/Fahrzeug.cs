@@ -27,7 +27,7 @@ namespace FahrzeugLib
             //Auf welche Properties können wir Zugreifen?
 
             this.PublicGeschwindigkeit = 123;
-            this.PrivateFarbe = "rot";
+            //this.PrivateFarbe = "rot";
             this.InternalRadio = new object();
             this.ProtectedAntrieb = new Object();
             this.ProtectedInternalKofferraum = new object();

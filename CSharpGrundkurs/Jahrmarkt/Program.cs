@@ -6,7 +6,18 @@ namespace Jahrmarkt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Achterbahn achterbahn = new Achterbahn();
+            
+            IFSK18Check achterbahnWithFSKCheck = (IFSK18Check)achterbahn;
+            if (achterbahnWithFSKCheck.AgeCheck(20))
+            {
+                Console.WriteLine("Teilnehmer darf mit der Achterbahn fahren");
+            }
+
+
+            IFSK18Check achterbahnWithCheck = new Achterbahn();
+            achterbahnWithCheck.AgeCheck(20);
+
         }
     }
 
@@ -17,8 +28,6 @@ namespace Jahrmarkt
         {
             return age >= 18 ? true : false;
         }
-
-        
     }
 
     public interface IToileteAvailbabe
@@ -26,13 +35,28 @@ namespace Jahrmarkt
         public int AnzahlDerToiletten { get; set; }
     }
 
-
-        
-
-    public class Jahrmarktstand
+    public class Jahrmarktstand : IDisposable, ICloneable
     {
         public string Bezeichnung { get; set; }
         public int AnzahlMitarbeiter { get; set; }
+
+
+        //Gibt eine flache Kopie des Ojektes zurück 
+        public object Clone()
+        {
+            Jahrmarktstand jahrmarktstand = new Jahrmarktstand();
+            jahrmarktstand.Bezeichnung = Bezeichnung;
+            jahrmarktstand.AnzahlMitarbeiter = AnzahlMitarbeiter;
+
+            return jahrmarktstand;
+        }
+
+        public void Dispose()
+        {
+            Bezeichnung = null;
+            AnzahlMitarbeiter = 0;
+        }
+
     }
 
     public class AutoScooter : Jahrmarktstand
@@ -60,4 +84,46 @@ namespace Jahrmarkt
         public int AnzahlDerToiletten { get; set; }
     }
 
+
+
+    #region Interfaces kann man vererben und kombinieren
+    //Interfaces können auch vererbt werden
+    public interface IBaseInterface
+    {
+        public void MakeBaseMethode();
+    }
+
+    public interface IDeliverInterface : IBaseInterface, ICloneable, IInterfaceWithDoubleMethod
+    {
+        public void MakeOther();
+    }
+
+    public class MyClass : IDeliverInterface
+    {
+        object ICloneable.Clone()
+        {
+            throw new NotImplementedException();
+        }
+
+        object IInterfaceWithDoubleMethod.Clone()
+        {
+            throw new NotImplementedException();
+        }
+
+        void IBaseInterface.MakeBaseMethode()
+        {
+            throw new NotImplementedException();
+        }
+
+        void IDeliverInterface.MakeOther()
+        {
+            throw new NotImplementedException();
+        }
+    }
+    #endregion
+
+    public interface IInterfaceWithDoubleMethod
+    {
+        public object Clone();
+    }
 }
