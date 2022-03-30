@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ffwUR48CCgmthfx/7bAc2Fb4p0cjUrUcCXuGLZDyKi7Wu7xr6VvqaYIAGs/7Pkczccxyb//5lRXO1n4qk3PH8Q==",
+  "dgSpecHash": "obb2c14MLVOjOOrHLfwBoY+i4bgiu5C5FXSNdmikDhUdhYX18xX7ADjHr9o+MPQaUhCPA/1TZp4npYBgzYAKAQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\ExceptionHandling\\ExceptionHandling.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

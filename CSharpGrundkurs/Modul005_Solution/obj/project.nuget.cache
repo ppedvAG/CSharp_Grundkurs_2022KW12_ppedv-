@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WnpUKurZSkUfwbJ/2/zFDcoWaWjXFNsS2bm3ESQS/oLN2oB7VFDeVUHUxtXXPBK+xcq8Kj3MkooEwmKTMBIPeQ==",
+  "dgSpecHash": "urhZlA/YkEsS0vcjX3Nbd4Ej1F53Qn65di4rI+ZXmgDk0gmsEiWvECv2n/rch7CqGZTwaUGA96wyuE3S2KAytQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\Modul005_Solution\\Modul005_Solution.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

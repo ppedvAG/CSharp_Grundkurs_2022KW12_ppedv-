@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tzAVbO5DqOGSvhxsegSpr1xZbwlRGKCgDZ2DksnNW7vjDjsgB0Z8NzBpQgR+j0kqZ6sUfgMVG3cmRge5UcO6CQ==",
+  "dgSpecHash": "MxKUeVsB48up9SmReeglpwGVg+6n6EpIwxPsdOBQRTjSkYKFhr9UR3g8+vq9ssQ1dtDJ1KhR0dAqNeEOgYcjSQ==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\FahrzeugConsole\\FahrzeugConsole.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

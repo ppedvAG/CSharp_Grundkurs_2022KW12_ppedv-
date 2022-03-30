@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FyiKVhlYTB7qbLFyfAKhIMVYdwoHcjlZLur7Nk7e/KEgJo7ji6YypKcV35a9PhETS70/PrHTyb/FcQlh7PbELg==",
+  "dgSpecHash": "SE+T6tqIE/9YlTsOUOvS6PRqy9D7g287jNr1EL+/s8acE38hDijR9SV4k6Y9NWoy0BydmW4HWQJlvHm6nQvA5Q==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

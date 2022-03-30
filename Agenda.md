@@ -33,83 +33,86 @@ Kursagenda: 08.02.22 Kevin Winter
  
 
 ## M03 | ARRAYS und BEDINGUNGEN
-- [ ] eindimensionale Arrays 
-- [ ] mehdimensionale Arrays 
-- [ ] logische Operatoren
-- [ ] if-Abfrage 
+- [x] eindimensionale Arrays 
+- [x] mehdimensionale Arrays 
+- [x] logische Operatoren
+- [x] if-Abfrage 
 
 ## M04 | SCHLEIFEN und ENUMS
-- [ ] while-Schleifen
-- [ ] do-while-Schleife
-- [ ] for-Schleife  
-- [ ] foreach-Schleife  
-- [ ] Enums 
+- [x] while-Schleifen
+- [x] do-while-Schleife
+- [x] for-Schleife  
+- [x] foreach-Schleife  
+- [x] Enums 
 
 
 ## M05 | Funktionen
-- [ ] Funktionen  
-- [ ] Modifier  
-- [ ] Parameter 
-- [ ] optionale Parameter 
-- [ ] params   
-- [ ] out  
-- [ ] Überladung 
+- [x] Funktionen  
+- [x] Modifier  
+- [x] Parameter 
+- [x] optionale Parameter 
+- [x] params   
+- [x] out  
+- [x] Überladung 
 
 
 ## M06 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
-- [ ] Namespaces 
-- [ ] Klassen  
-- [ ] Felder
-- [ ] Eigenschaften  
-- [ ] Kapselungen 
-- [ ] Konstruktoren 
-- [ ] Objekte 
+- [x] Namespaces 
+- [x] Klassen  
+- [x] Felder
+- [x] Eigenschaften  
+- [x] Kapselungen 
+- [x] Konstruktoren 
+- [x] Objekte 
 
 
 ## M07 | OOP - GARBAGE COLLECTION, STATISCHE MEMBER, WERTE und REFERENZEN
-- [ ] Destruktor 
-- [ ] Garbage Collection
-- [ ] Statische Member
-- [ ] Werte- und Referenztypen
-- [ ] ref 
+- [x] Destruktor 
+- [x] Garbage Collection
+- [x] Statische Member
+- [x] Werte- und Referenztypen
+- [x] ref 
 
 
 ## M08 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
-- [ ] Vererbung
-- [ ] base
-- [ ] virtuelle Member   
-- [ ] Überschreibungen verhindern
-- [ ] Zugriffsmodifier 
+- [x] Vererbung
+- [x] base
+- [x] virtuelle Member   
+- [x] Überschreibungen verhindern
+- [x] Zugriffsmodifier 
 
 
 ## M09 | OOP - POLYMORPHISMUS und TYPEN
-- [ ] Polymorphismus
-- [ ] Typtest "GetType()" & "typeof"  
-- [ ] Typtest "is" 
-- [ ] Member ausblenden 
-- [ ] abstrakte Member und Klassen 
+- [x] Polymorphismus
+- [x] Typtest "GetType()" & "typeof"  
+- [x] Typtest "is" 
+- [x] Member ausblenden 
+- [x] abstrakte Member und Klassen 
 
 
 ## M10 | OOP -INTERFACES
-- [ ] Interfaces  
-- [ ] Interface-Implementierungen  
+- [x] Interfaces  
+- [x] Interface-Implementierungen  
 
 
 ## M11 | GENERISCHE LISTEN
-- [ ] Generische Datentypen
-- [ ] List<T>
-- [ ] Stack<T>
-- [ ] Queue<T>
-- [ ] Dictionary<T1, T2>
+- [x] Generische Datentypen
+- [x] List<T>
+- [x] Stack<T>
+- [x] Queue<T>
+- [x] Dictionary<T1, T2>
 
 
 ## M12 | FEHLERBEHANDLUNG und UNIT-TESTS
-- [ ] try-catch  
-- [ ] eigene Exceptions 
-- [ ] UnitTests
+- [x] try-catch  
+- [x] eigene Exceptions 
+- [x] UnitTests
+
+## M13 | SOLID
 
 
-## M13 | DELEGATES und EVENTS
+
+## M14 | DELEGATES und EVENTS
 - [ ] Action 
 - [ ] Predicate   
 - [ ] Func
@@ -117,31 +120,13 @@ Kursagenda: 08.02.22 Kevin Winter
 - [ ] EventHandler
 
 
-## M14 | GUI und WINDOWS FORMS
-- [ ] Windows Forms
-- [ ] partielle Klassen
-- [ ] WinForms in VS
-- [ ] Eigenschaften und Events
-- [ ] wichtige Controls
-- [ ] MessageBox
-- [ ] Schließen und Öffnen von Forms
 
-
-## M15 | DATEIEN und VERZEICHNISSE
-- [ ] Dateien lesen/schreiben 
-- [ ] Dateidialog
-- [ ] JSON
-- [ ] XML
 
 
 ## M16 | WEITERE THEMEN
-- [ ] Operatoren überladen
-- [ ] IEnumerable
-- [ ] Indexer
 - [ ] Erweiterungsmethoden
 - [ ] LINQ
-- [ ] Timer
-- [ ] SOLID - Regeln 
+
 
 -Alternativ können hier je nach Zeit und Teilnehmerbedarf auch andere Themen (z.B. Deployment / Klassendiagramme) durchgenommen
 	oder evtl ein Abschlussprojekt durchgeführt werden (vgl. hierfür M016-(Alternativen)).

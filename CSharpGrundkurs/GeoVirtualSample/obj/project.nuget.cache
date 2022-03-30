@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AqU/ppg8FkfXIZPGWCYJTZ2jR1d9F6CDZafHTb7OfvaMaisziR/dPo7TPGWnjZHH2IqwoIr2ogrk2nodahKNUg==",
+  "dgSpecHash": "9HB1ru+hwkTAuxIcO4cCLkaK2P72qpkiDXkRROYSWSeIudbIZEM7dweicgzWwy+ry52BRCp10x8JxD8Oc805CA==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\GeoVirtualSample\\GeoVirtualSample.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

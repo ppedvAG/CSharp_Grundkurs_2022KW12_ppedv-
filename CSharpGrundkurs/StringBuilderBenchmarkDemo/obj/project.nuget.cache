@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DfC8knm6YJ9TtuaTux455Q8DOjObGtkgGBjFUNqbOV+gHfuSEM9xARej17lAnnbQeIrRwmBydbwh29YXyHQDGA==",
+  "dgSpecHash": "UkVYjQmIU80FLWWcaE3aASxrj9eu6i/JnTbF4n6k8ZDadu11pAnOvCBVflK1rfVmLm3g+5/5P46hbS9Iu3kjmw==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Grundkurs_2022KW12_ppedv-\\CSharpGrundkurs\\StringBuilderBenchmarkDemo\\StringBuilderBenchmarkDemo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
