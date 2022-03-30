@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\bin\Debug\net5.0\ErweiterungsmethodenSample.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\bin\Debug\net5.0\ErweiterungsmethodenSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\bin\Debug\net5.0\ErweiterungsmethodenSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\bin\Debug\net5.0\ErweiterungsmethodenSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\bin\Debug\net5.0\ErweiterungsmethodenSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\bin\Debug\net5.0\ErweiterungsmethodenSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\ErweiterungsmethodenSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\ErweiterungsmethodenSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\ErweiterungsmethodenSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\ErweiterungsmethodenSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\ErweiterungsmethodenSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\ErweiterungsmethodenSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\refint\ErweiterungsmethodenSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\ErweiterungsmethodenSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\ErweiterungsmethodenSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\ErweiterungsmethodenSample\obj\Debug\net5.0\ref\ErweiterungsmethodenSample.dll

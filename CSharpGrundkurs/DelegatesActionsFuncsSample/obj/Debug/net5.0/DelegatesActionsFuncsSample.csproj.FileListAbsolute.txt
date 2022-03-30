@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\bin\Debug\net5.0\DelegatesActionsFuncsSample.exe
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\bin\Debug\net5.0\DelegatesActionsFuncsSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\bin\Debug\net5.0\DelegatesActionsFuncsSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\bin\Debug\net5.0\DelegatesActionsFuncsSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\bin\Debug\net5.0\DelegatesActionsFuncsSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\bin\Debug\net5.0\DelegatesActionsFuncsSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\DelegatesActionsFuncsSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\DelegatesActionsFuncsSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\DelegatesActionsFuncsSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\DelegatesActionsFuncsSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\DelegatesActionsFuncsSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\DelegatesActionsFuncsSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\refint\DelegatesActionsFuncsSample.dll
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\DelegatesActionsFuncsSample.pdb
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\DelegatesActionsFuncsSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundkurs_2022KW12_ppedv-\CSharpGrundkurs\DelegatesActionsFuncsSample\obj\Debug\net5.0\ref\DelegatesActionsFuncsSample.dll
